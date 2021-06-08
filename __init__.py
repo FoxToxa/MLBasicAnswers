@@ -1,0 +1,1 @@
+from section1 import check_task_1
